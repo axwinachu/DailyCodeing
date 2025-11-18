@@ -9,6 +9,6 @@ public class Streamfilter {
         Stream<Integer> s=li.stream();
 
         s.filter()
-        //
+        
     }
 }
